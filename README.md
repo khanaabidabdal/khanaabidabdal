@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/yourusername/banner-image.png)
+![Banner](Banner.png)
 
 # Khan Aabid Abdal
 
@@ -11,8 +11,8 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 - **Location:** Kalyan, Maharashtra, India
 - **Email:** [khanaabidabdal@gmail.com](mailto:khanaabidabdal@gmail.com)
 - **LinkedIn:** [Aabid Abdal Khan](https://www.linkedin.com/in/aabid-abdal-khan/)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- **Kaggle:** [yourkaggleprofile](https://www.kaggle.com/yourkaggleprofile)
+- **Twitter:** [@KhanAabidAbdal]([https://twitter.com/yourtwitterhandle](https://x.com/KhanAbdalAabid))
+- **Kaggle:** [khanaabidabdal]([https://www.kaggle.com/yourkaggleprofile](https://www.kaggle.com/khanaabidabdal))
 - **GitHub:** [khanaabidabdal](https://github.com/khanaabidabdal)
 
 ## Skills
@@ -60,8 +60,8 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 
 | Degree                            | Institution                      | Duration                | Grade/Percentage      |
 |-----------------------------------|----------------------------------|-------------------------|-----------------------|
-| M.Sc. in Artificial Intelligence  | B.K. Birla College (Autonomous)  | Aug 2022 - Present      | [Your Grade/Percentage]|
-| B.Sc. in Physics                  | B.K. Birla College (Autonomous)  | June 2019 - April 2022  | [Your Grade/Percentage]|
+| M.Sc. in Artificial Intelligence  | B.K. Birla College (Autonomous)  | Aug 2022 - Present      | [8.9]|
+| B.Sc. in Physics                  | B.K. Birla College (Autonomous)  | June 2019 - April 2022  | [9.8]|
 
 ## Projects
 
