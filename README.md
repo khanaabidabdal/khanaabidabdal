@@ -11,18 +11,18 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 - **Location:** Kalyan, Maharashtra, India
 - **Email:** [khanaabidabdal@gmail.com](mailto:khanaabidabdal@gmail.com)
 - **LinkedIn:** [Aabid Abdal Khan](https://www.linkedin.com/in/aabid-abdal-khan/)
-- **Twitter:** [@KhanAabidAbdal]([https://twitter.com/yourtwitterhandle](https://x.com/KhanAbdalAabid))
-- **Kaggle:** [khanaabidabdal]([https://www.kaggle.com/yourkaggleprofile](https://www.kaggle.com/khanaabidabdal))
+- **Twitter:** [@KhanAabidAbdal]([https://x.com/KhanAbdalAabid])
+- **Kaggle:** [khanaabidabdal]([https://www.kaggle.com/khanaabidabdal])
 - **GitHub:** [khanaabidabdal](https://github.com/khanaabidabdal)
 
 ## Skills
 
-- **Programming Languages:** Python
-- **Machine Learning & Deep Learning:** TensorFlow, PyTorch
-- **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib, Plotly
+- **Programming Languages:** Python, R
+- **Machine Learning & Deep Learning:** Scikit Learn, TensorFlow, PyTorch
+- **Data Analysis & Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Plotly
 - **Database Management:** MySQL, SQL
-- **Tools:** Microsoft Office, Excel
-- **Other Skills:** Transfer Learning, Data Visualization, NLP
+- **Tools:** Microsoft Office, Excel, Word
+- **Other Skills:** Canva, PPT Presentation, Video & Photo editing, SEO.
 
 ## Certifications
 
@@ -43,10 +43,6 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 - **Hindi:** Native or Bilingual Proficiency
 
 ## Experience
-
-### CodSoft
-- **Machine Learning Intern**
-  - Duration: October 2023 - November 2023
 
 ### MeriSKILL
 - **Data Analyst Intern**
