@@ -13,7 +13,6 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 - **LinkedIn:** [Aabid Abdal Khan](https://www.linkedin.com/in/aabid-abdal-khan/)
 - **Twitter:** [@KhanAabidAbdal](https://x.com/KhanAbdalAabid)
 - **Kaggle:** [khanaabidabdal](https://www.kaggle.com/khanaabidabdal)
-- **GitHub:** [khanaabidabdal](https://github.com/khanaabidabdal)
 
 ## Skills
 
