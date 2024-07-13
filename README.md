@@ -11,8 +11,8 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 - **Location:** Kalyan, Maharashtra, India
 - **Email:** [khanaabidabdal@gmail.com](mailto:khanaabidabdal@gmail.com)
 - **LinkedIn:** [Aabid Abdal Khan](https://www.linkedin.com/in/aabid-abdal-khan/)
-- **Twitter:** [@KhanAabidAbdal]([https://x.com/KhanAbdalAabid])
-- **Kaggle:** [khanaabidabdal]([https://www.kaggle.com/khanaabidabdal])
+- **Twitter:** [@KhanAabidAbdal](https://x.com/KhanAbdalAabid)
+- **Kaggle:** [khanaabidabdal](https://www.kaggle.com/khanaabidabdal)
 - **GitHub:** [khanaabidabdal](https://github.com/khanaabidabdal)
 
 ## Skills
@@ -56,10 +56,12 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 
 | Degree                            | Institution                      | Duration                | Grade/Percentage      |
 |-----------------------------------|----------------------------------|-------------------------|-----------------------|
-| M.Sc. in Artificial Intelligence  | B.K. Birla College (Autonomous)  | Aug 2022 - Present      | [8.9]|
-| B.Sc. in Physics                  | B.K. Birla College (Autonomous)  | June 2019 - April 2022  | [9.8]|
+| M.Sc. in Artificial Intelligence  | B.K. Birla College (Autonomous)  | Aug 2022 - July 2024    |       Pending         |
+| B.Sc. in Physics                  | B.K. Birla College (Autonomous)  | June 2019 - April 2022  |         9.8           |
+| 12th H.S.C Board (Science)        | R.K. Talreja College             | July 2017 - Feb 2019    |         77%           |
+| 10th S.S.C Board                  | Old Boays Associaltion English High School | Aug 2009 - Mar 2017 |   83%           |
 
-## Projects
+  ## Projects
 
 - **Nobel Prize Insights**: Conducted in-depth analysis of Nobel Prize data to extract key insights using pandas, matplotlib, and seaborn. [Project Link](https://jovian.com/khanaabidabdal/nobel-prize-insight)
 
