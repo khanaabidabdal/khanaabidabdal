@@ -25,16 +25,16 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 
 ## Certifications
 
-- **Machine Learning with Python: Zero to GBMs** by Jovian
-- **Data Analysis with Python: Zero to Pandas** by Jovian
-- **Data Scientist Career Track** by 365 Data Science
-- **PyTorch For Deep Learning in 2023: Zero To Mastery** by Udemy
-- **SQL Basic** by LearnSQL.com
-- **Deep Learning with TensorFlow 2** (LinkedIn)
+- **[Machine Learning with Python: Zero to GBMs](https://jovian.com/certificate/MFQTQOBZHA)** by Jovian
+- **[Data Analysis with Python: Zero to Pandas](https://jovian.com/certificate/MFQTQMRXHA)** by Jovian
+- **[Data Scientist Career Track](https://learn.365datascience.com/certificates/DD-E0079E4F95/)** by 365 Data Science
+- **[PyTorch For Deep Learning in 2023: Zero To Mastery](https://www.udemy.com/certificate/UC-c0db8e71-d937-4bfc-91cc-c54142e3a863/)** by Udemy
+- **[SQL Basic](https://learnsql.com/files/course-certificate/hPcOEEqjgMuFqmKLxDLpJdojwWHoUveCpbszBLmo)** by LearnSQL.com
+- **[Deep Learning with TensorFlow 2](https://learn.365datascience.com/certificates/CC-1104F3BC8B/)** by 365 Data Science
 - **Artificial Intelligence Foundations: Neural Networks** (LinkedIn)
 - **Python for Data Science Essential Training** (LinkedIn)
-- **Advanced Microsoft Excel** by 365 Data Science
-- **Statistics** by 365 Data Science
+- **[Advanced Microsoft Excel](https://learn.365datascience.com/certificates/CC-05EC3495B4/)** by 365 Data Science
+- **[Statistics](https://learn.365datascience.com/certificates/CC-4668AC50BE/)** by 365 Data Science
 
 ## Languages
 
