@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning Engineer currently pursuing my M.Sc. in Artificial Intelligence. My work primarily revolves around leveraging machine learning and deep learning techniques to derive insights and build intelligent solutions.
+Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning Engineer who has completed my M.Sc. in Artificial Intelligence. My work primarily revolves around leveraging machine learning and deep learning techniques to derive insights and build intelligent solutions.
 
 ## Contact Information
 
@@ -47,8 +47,11 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 ### MeriSKILL
 - **Data Analyst Intern**
   - Duration: September 2023 - October 2023
+  - Created a Sales Dashboard On Excel
+  - Created a Model for the prediction of Diabetes
 
 ### Rio 125 Internship (TCS ION)
+- Duration : September 2023 - December 2024
 - Worked on NLP Model
 - Created a model for detection and correction of grammatical errors using the t5 base model
 
@@ -63,13 +66,29 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 
   ## Projects
 
+  - **Ai Image Classifier : Fake Vs Real Faces** : Developed a robust computer vision model aimed at distinguishing between real and AI-generated faces. Leveraged the ResNet50 architecture for both feature extraction and fine-tuning to enhance classification accuracy. The project involved:
+
+* Implementing the model in Google Colab with a free GPU for training and testing.
+* Designing an interactive user interface using Gradio for image upload and classification.
+* Achieving a peak accuracy of 98% through fine-tuning with real-world data augmentation.
+* Addressing overfitting and stability issues by experimenting with different training epochs.
+* Deploying the application on Hugging Face for real-time classification.
+* Submitting the research findings to Discover Artificial Intelligence, Springer Nature.
+* Key Technologies: Python, PyTorch, ResNet50, Google Colab, Gradio, Hugging Face
+* [Hugging Face link](https://huggingface.co/spaces/khanaabidabdal/RealityCheck) [GitHib Repository](https://github.com/khanaabidabdal/Ai-Image-Classifier-Real-Vs-Fake-Faces?tab=readme-ov-file)
+
+- **Comprehensive Analysis of Bike Store Database** : This project focuses on analyzing a comprehensive dataset from a bike store, which includes information about customers, orders, products, stores, and staff. The analysis aims to uncover insights into customer behavior, sales performance, product trends, and staff efficiency.
+  * [GitHub Repositry](https://github.com/khanaabidabdal/Comprehensive-Analysis-of-Bike-Store-Database)
+
+  - **Fruitify**: This project classifies 100 different types of fruits with 80% accuracy and is deployed on Hugging Face. [GitHub Repository](https://github.com/khanaabidabdal/Fruitify) | [Hugging Face Space](https://huggingface.co/spaces/khanaabidabdal/fruitify)
+
 - **Nobel Prize Insights**: Conducted in-depth analysis of Nobel Prize data to extract key insights using pandas, matplotlib, and seaborn. [Project Link](https://jovian.com/khanaabidabdal/nobel-prize-insight)
 
 - **Spam Classification**: Trained models, including Logistic Regression, PyTorch, and Naive Bayes, for classifying SMS as spam or ham.
 
 - **Movie Genre Classification**: Developed a model to categorize movies into 17 different genres.
 
-- **Fruitify**: This project classifies 100 different types of fruits with 80% accuracy and is deployed on Hugging Face. [GitHub Repository](https://github.com/khanaabidabdal/Fruitify) | [Hugging Face Space](https://huggingface.co/spaces/khanaabidabdal/fruitify)
+
 
 ## Honors and Awards
 
@@ -77,7 +96,7 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 
 ## Summary
 
-I am an enthusiastic AI professional with a robust background in machine learning, deep learning, and data analysis. My academic and professional experiences have equipped me with the skills necessary to tackle complex data-driven challenges and contribute to innovative projects. I am always eager to learn and share knowledge, which has led me to write articles and create educational content on platforms like YouTube.
+I am an enthusiastic AI professional with a robust background in machine learning, deep learning, and data analysis. My academic and professional experiences have equipped me with the skills necessary to tackle complex data-driven challenges and contribute to innovative projects. I am always eager to learn and share knowledge, which has led me to write articles and create educational content on platforms like YouTube in past.
 
 ---
 
