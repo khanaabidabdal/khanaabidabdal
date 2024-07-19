@@ -20,7 +20,7 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 - **Machine Learning & Deep Learning:** Scikit Learn, TensorFlow, PyTorch
 - **Data Analysis & Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Plotly
 - **Database Management:** MySQL, SQL
-- **Tools:** Microsoft Office, Excel, Word
+- **Tools:** Microsoft Office, Excel, Word, Power BI
 - **Other Skills:** Canva, PPT Presentation, Video & Photo editing, SEO.
 
 ## Certifications
