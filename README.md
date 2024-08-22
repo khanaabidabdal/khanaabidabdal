@@ -61,7 +61,7 @@ Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning E
 
 | Degree                            | Institution                      | Duration                | Grade/Percentage      |
 |-----------------------------------|----------------------------------|-------------------------|-----------------------|
-| M.Sc. in Artificial Intelligence  | B.K. Birla College (Autonomous)  | Aug 2022 - July 2024    |         6.83         |
+| M.Sc. in Artificial Intelligence  | B.K. Birla College (Autonomous)  | Aug 2022 - July 2024    |         8.63         |
 | B.Sc. in Physics                  | B.K. Birla College (Autonomous)  | June 2019 - April 2022  |         9.8           |
 | 12th H.S.C Board (Science)        | R.K. Talreja College             | July 2017 - Feb 2019    |         77%           |
 | 10th S.S.C Board                  | Old Boays Associaltion English High School | Aug 2009 - Mar 2017 |   83%           |
