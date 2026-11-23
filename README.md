@@ -61,18 +61,29 @@ Beyond my professional work, I build independent projects, explore modern web te
 - **Marathi:** Elementary Proficiency
 - **Hindi:** Native or Bilingual Proficiency
 
-## Experience
+## Professional Experience
 
-### MeriSKILL
-- **Data Analyst Intern**
-  - Duration: September 2023 - October 2023
-  - Created a Sales Dashboard On Excel
-  - Created a Model for the prediction of Diabetes
+### Full Stack Developer | Al Shahin Metal Industries
+**Saudi Arabia | June 2025 – Present**
 
-### Rio 125 Internship (TCS ION)
-- Duration : September 2023 - December 2024
-- Worked on NLP Model
-- Created a model for detection and correction of grammatical errors using the t5 base model
+- Develop and maintain enterprise web applications and ERP systems using PHP, Laravel, JavaScript, and MySQL.
+- Work across frontend and backend development, implementing application features and business workflows.
+- Develop and integrate REST APIs to support application functionality and data exchange.
+- Work with relational databases, SQL queries, and server-side application logic.
+- Contribute to the development and maintenance of the company's website and internal software systems.
+
+### NLP Intern | TCS iON — Rio 125 Internship
+**September 2023 – December 2024**
+
+- Developed a natural language processing application for detecting and correcting grammatical errors.
+- Applied the T5-base transformer model to text correction tasks.
+- Gained practical experience with NLP workflows and transformer-based language models.
+
+### Data Analyst Intern | MeriSKILL
+**September 2023 – October 2023**
+
+- Developed a sales dashboard using Microsoft Excel to visualize business performance.
+- Built a machine learning model for diabetes prediction, applying data preprocessing and predictive modeling techniques.
 
 ## Education
 
