@@ -42,16 +42,19 @@ Beyond my professional work, I build independent projects, explore modern web te
 
 ## Certifications
 
-- **[Machine Learning with Python: Zero to GBMs](https://jovian.com/certificate/MFQTQOBZHA)** by Jovian
-- **[Data Analysis with Python: Zero to Pandas](https://jovian.com/certificate/MFQTQMRXHA)** by Jovian
-- **[Data Scientist Career Track](https://learn.365datascience.com/certificates/DD-E0079E4F95/)** by 365 Data Science
-- **[PyTorch For Deep Learning in 2023: Zero To Mastery](https://www.udemy.com/certificate/UC-c0db8e71-d937-4bfc-91cc-c54142e3a863/)** by Udemy
-- **[SQL Basic](https://learnsql.com/files/course-certificate/hPcOEEqjgMuFqmKLxDLpJdojwWHoUveCpbszBLmo)** by LearnSQL.com
-- **[Deep Learning with TensorFlow 2](https://learn.365datascience.com/certificates/CC-1104F3BC8B/)** by 365 Data Science
-- **Artificial Intelligence Foundations: Neural Networks** (LinkedIn)
-- **Python for Data Science Essential Training** (LinkedIn)
-- **[Advanced Microsoft Excel](https://learn.365datascience.com/certificates/CC-05EC3495B4/)** by 365 Data Science
-- **[Statistics](https://learn.365datascience.com/certificates/CC-4668AC50BE/)** by 365 Data Science
+### Artificial Intelligence & Machine Learning
+
+- [Machine Learning with Python: Zero to GBMs](https://jovian.com/certificate/MFQTQOBZHA) — Jovian
+- [PyTorch for Deep Learning: Zero to Mastery](https://www.udemy.com/certificate/UC-c0db8e71-d937-4bfc-91cc-c54142e3a863/) — Udemy
+- [Deep Learning with TensorFlow 2](https://learn.365datascience.com/certificates/CC-1104F3BC8B/) — 365 Data Science
+- Artificial Intelligence Foundations: Neural Networks — LinkedIn Learning
+
+### Data Science & Databases
+
+- [Data Analysis with Python: Zero to Pandas](https://jovian.com/certificate/MFQTQMRXHA) — Jovian
+- [Data Scientist Career Track](https://learn.365datascience.com/certificates/DD-E0079E4F95/) — 365 Data Science
+- [SQL Basic](https://learnsql.com/files/course-certificate/hPcOEEqjgMuFqmKLxDLpJdojwWHoUveCpbszBLmo) — LearnSQL.com
+- Python for Data Science Essential Training — LinkedIn Learning
 
 ## Languages
 
@@ -87,12 +90,15 @@ Beyond my professional work, I build independent projects, explore modern web te
 
 ## Education
 
-| Degree                            | Institution                      | Duration                | Grade/Percentage      |
-|-----------------------------------|----------------------------------|-------------------------|-----------------------|
-| M.Sc. in Artificial Intelligence  | B.K. Birla College (Autonomous)  | Aug 2022 - July 2024    |         8.63         |
-| B.Sc. in Physics                  | B.K. Birla College (Autonomous)  | June 2019 - April 2022  |         9.8           |
-| 12th H.S.C Board (Science)        | R.K. Talreja College             | July 2017 - Feb 2019    |         77%           |
-| 10th S.S.C Board                  | Old Boays Associaltion English High School | Aug 2009 - Mar 2017 |   83%           |
+### Master of Science (M.Sc.) in Artificial Intelligence
+**B.K. Birla College (Autonomous)** | August 2022 – July 2024
+
+- **CGPA:** 8.63
+
+### Bachelor of Science (B.Sc.) in Physics
+**B.K. Birla College (Autonomous)** | June 2019 – April 2022
+
+- **CGPA:** 9.8
 
   ## Projects
 
