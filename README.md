@@ -28,14 +28,17 @@ Beyond my professional work, I build independent projects, explore modern web te
 - **Twitter:** [@KhanAabidAbdal](https://x.com/KhanAbdalAabid)
 - **Kaggle:** [khanaabidabdal](https://www.kaggle.com/khanaabidabdal)
 
-## Skills
+## Technical Skills & Technologies
 
-- **Programming Languages:** Python, R
-- **Machine Learning & Deep Learning:** Scikit Learn, TensorFlow, PyTorch
-- **Data Analysis & Visualization:** Pandas, NumPy, Seaborn, Matplotlib, Plotly
-- **Database Management:** MySQL, SQL
-- **Tools:** Microsoft Office, Excel, Word, Power BI
-- **Other Skills:** Canva, PPT Presentation, Video & Photo editing, SEO.
+- **Programming Languages:** PHP, JavaScript, TypeScript, Python, R, SQL
+- **Backend Development:** PHP, Laravel, REST APIs, Server-Side Development
+- **Frontend Development:** HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS
+- **CMS & Web Platforms:** WordPress
+- **Databases:** MySQL, SQL, Relational Database Design
+- **AI & Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Deep Learning, Computer Vision, Transfer Learning
+- **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
+- **AI Application Development:** Gradio, Hugging Face Spaces, Model Fine-Tuning and Deployment
+- **Development Tools & Technologies:** Git, GitHub, VS Code, Node.js, Apache, Laragon, Google Colab
 
 ## Certifications
 
