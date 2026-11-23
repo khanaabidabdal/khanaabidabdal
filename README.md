@@ -4,7 +4,21 @@
 
 ## About Me
 
-Hello! I am Khan Aabid Abdal, a passionate Data Scientist and Machine Learning Engineer who has completed my M.Sc. in Artificial Intelligence. My work primarily revolves around leveraging machine learning and deep learning techniques to derive insights and build intelligent solutions.
+**Software Engineer | AI Engineer & Researcher | M.Sc. Artificial Intelligence**
+
+I'm a Full Stack Developer at Al Shahin Metal Industries, Saudi Arabia, working on enterprise applications, ERP systems, and web development using PHP, Laravel, JavaScript, and MySQL.
+
+I hold a Master's degree in Artificial Intelligence and a Bachelor's degree in Physics. My technical interests span software engineering, backend development, machine learning, deep learning, and computer vision.
+
+My AI experience includes developing machine learning applications, fine-tuning deep learning models, and deploying interactive AI solutions.
+
+I have also published research on detecting AI-generated images using fine-tuned ResNet50 models.
+
+**Published Research:** [Classifying Real and AI-Generated Images Using Fine-Tuned ResNet50](https://doi.org/10.56147/aaiet.1.2.7)
+
+Beyond my professional work, I build independent projects, explore modern web technologies, and share technical knowledge through open-source repositories and engineering articles.
+
+**My focus:** Building reliable software systems and developing practical AI-powered applications.
 
 ## Contact Information
 
