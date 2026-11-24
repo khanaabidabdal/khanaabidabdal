@@ -100,23 +100,71 @@ Beyond my professional work, I build independent projects, explore modern web te
 
 - **CGPA:** 9.8
 
-  ## Projects
+## Featured Projects
 
-- **Ai Image Classifier : Fake Vs Real Faces** : Developed a robust computer vision model aimed at distinguishing between real and AI-generated faces. Leveraged the ResNet50 architecture for both feature extraction and fine-tuning to enhance classification accuracy. The project involved: Implementing the model in Google Colab with a free GPU for training and testing. Designing an interactive user interface using Gradio for image upload and classification. Achieving a peak accuracy of 98% through fine-tuning with real-world data augmentation. Addressing overfitting and stability issues by experimenting with different training epochs. Deploying the application on Hugging Face for real-time classification. Submitting the research findings to Discover Artificial Intelligence, Springer Nature. Key Technologies: Python, PyTorch, ResNet50, Google Colab, Gradio, Hugging Face. [Hugging Face link](https://huggingface.co/spaces/khanaabidabdal/RealityCheck) | [GitHub Repository](https://github.com/khanaabidabdal/Ai-Image-Classifier-Real-Vs-Fake-Faces?tab=readme-ov-file)
+### Software Engineering
 
-- **Diabetes Trends and Insights Using Power BI** : This project aims to analyze and visualize the trends and insights related to diabetes. Using Power BI, various metrics and data points are visualized to understand the patterns, risk factors, and demographic details associated with diabetes. [GitHub Repositry](https://github.com/khanaabidabdal/Diabetes-Trends-and-Insights-using-Power-BI)
+**[The Salafi Store](https://thesalafistore.com)**
 
-- **Comprehensive Analysis of Bike Store Database** : This project focuses on analyzing a comprehensive dataset from a bike store, which includes information about customers, orders, products, stores, and staff. The analysis aims to uncover insights into customer behavior, sales performance, product trends, and staff efficiency.[GitHub Repositry](https://github.com/khanaabidabdal/Comprehensive-Analysis-of-Bike-Store-Database)
+An e-commerce platform currently under development, focused on Islamic books and essentials. The project involves full-stack application development, product catalogue management, multilingual support, database design, API development, and responsive storefront design.
 
-- **Fruitify**: This project classifies 100 different types of fruits with 80% accuracy and is deployed on Hugging Face. [GitHub Repository](https://github.com/khanaabidabdal/Fruitify) | [Hugging Face Space](https://huggingface.co/spaces/khanaabidabdal/fruitify)
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, PostgreSQL, Vercel
 
-- **Nobel Prize Insights**: Conducted in-depth analysis of Nobel Prize data to extract key insights using pandas, matplotlib, and seaborn.[Project Link](https://jovian.com/khanaabidabdal/nobel-prize-insight)
+**Status:** In Development | Private Repository
 
-- **Spam Classification**: Trained models, including Logistic Regression, PyTorch, and Naive Bayes, for classifying SMS as spam or ham.
+**[Full-Stack Web Development Roadmap](https://github.com/khanaabidabdal/web-development-roadmap)**
 
-- **Movie Genre Classification**: Developed a model to categorize movies into 17 different genres.
+A structured, open-source, 16-week, project-based learning resource covering frontend development, backend engineering, databases, APIs, testing, and deployment. Designed to strengthen software engineering fundamentals and provide a freely accessible learning resource for developers.
 
+**Technologies:** HTML, CSS, JavaScript, TypeScript, Git
 
+**Status:** Ongoing
+
+### AI & Machine Learning
+
+**[Reality Check — Real vs. AI-Generated Image Classifier](https://github.com/khanaabidabdal/Ai-Image-Classifier-Real-Vs-Fake-Faces)**
+
+Developed a ResNet50-based computer vision application for classifying real and AI-generated face images. Implemented an interactive Gradio interface and deployed the application on Hugging Face. Documented subsequent model retraining using additional images, separate from the published research experiments.
+
+**Technologies:** Python, PyTorch, ResNet50, Gradio, Hugging Face
+
+[Live Application](https://huggingface.co/spaces/khanaabidabdal/RealityCheck)
+
+**[Automated Grammatical Error Detection and Correction](https://github.com/khanaabidabdal/Automate-Detection-And-Correction-of-Grammatical-Errors)**
+
+Developed an NLP application using the T5 transformer model to detect and correct grammatical errors in English text as part of the TCS iON internship.
+
+**Technologies:** Python, NLP, Transformers, T5
+
+**[Fruitify — Fruit Image Classification](https://github.com/khanaabidabdal/Fruitify)**
+
+Developed a deep learning application using transfer learning with ResNet50 to classify images across 100 fruit categories.
+
+**Technologies:** Python, PyTorch, ResNet50, Transfer Learning
+
+[Live Application](https://huggingface.co/spaces/khanaabidabdal/fruitify)
+
+### Databases & Analytics
+
+**[Comprehensive Analysis of Bike Store Database](https://github.com/khanaabidabdal/Comprehensive-Analysis-of-Bike-Store-Database)**
+
+Explored a relational retail database to analyze customers, orders, products, and sales performance using SQL.
+
+**Technologies:** SQL, Relational Databases
+
+## Published Research
+
+**[Classifying Real and AI-Generated Images Using Fine-Tuned ResNet50](https://doi.org/10.56147/aaiet.1.2.7)**
+
+Published in the *Journal of Advanced Artificial Intelligence, Engineering and Technology* (2025).
+
+Research focused on applying transfer learning and fine-tuning with ResNet50 to distinguish real and AI-generated images.
+
+**Research Areas:** Artificial Intelligence, Computer Vision, Deep Learning, Transfer Learning, AI-Generated Image Detection
+
+**DOI:** 10.56147/aaiet.1.2.7
+
+[Read Publication](https://doi.org/10.56147/aaiet.1.2.7) | [Explore Related Application](https://github.com/khanaabidabdal/Ai-Image-Classifier-Real-Vs-Fake-Faces) | [Google Scholar](https://scholar.google.com/citations?user=T5mH21oAAAAJ&hl=en)
 
 ## Honors and Awards
 
