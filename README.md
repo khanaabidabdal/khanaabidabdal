@@ -20,13 +20,16 @@ Beyond my professional work, I build independent projects, explore modern web te
 
 **My focus:** Building reliable software systems and developing practical AI-powered applications.
 
-## Contact Information
+## Connect With Me
 
-- **Location:** Kalyan, Maharashtra, India
+- **Location:** Riyadh, Saudi Arabia
 - **Email:** [khanaabidabdal@gmail.com](mailto:khanaabidabdal@gmail.com)
-- **LinkedIn:** [Aabid Abdal Khan](https://www.linkedin.com/in/aabid-abdal-khan/)
-- **Twitter:** [@KhanAabidAbdal](https://x.com/KhanAbdalAabid)
-- **Kaggle:** [khanaabidabdal](https://www.kaggle.com/khanaabidabdal)
+- **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/aabid-abdal-khan/)
+- **Medium:** [Technical Articles](https://medium.com/@khanaabidabdal)
+- **Google Scholar:** [Research Profile](https://scholar.google.com/citations?user=T5mH21oAAAAJ&hl=en)
+- **Hugging Face:** [AI Applications & Models](https://huggingface.co/khanaabidabdal)
+- **Kaggle:** [Data Science Profile](https://www.kaggle.com/khanaabidabdal)
+- **X (Twitter):** [@KhanAbdalAabid](https://x.com/KhanAbdalAabid)
 
 ## Technical Skills & Technologies
 
@@ -55,14 +58,6 @@ Beyond my professional work, I build independent projects, explore modern web te
 - [Data Scientist Career Track](https://learn.365datascience.com/certificates/DD-E0079E4F95/) — 365 Data Science
 - [SQL Basic](https://learnsql.com/files/course-certificate/hPcOEEqjgMuFqmKLxDLpJdojwWHoUveCpbszBLmo) — LearnSQL.com
 - Python for Data Science Essential Training — LinkedIn Learning
-
-## Languages
-
-- **Arabic:** Limited Working Proficiency
-- **English:** Limited Working Proficiency
-- **Urdu:** Limited Working Proficiency
-- **Marathi:** Elementary Proficiency
-- **Hindi:** Native or Bilingual Proficiency
 
 ## Professional Experience
 
@@ -168,16 +163,16 @@ Research focused on applying transfer learning and fine-tuning with ResNet50 to 
 
 ## Honors and Awards
 
-- **Fizi-Talks**
+### Second Prize — Fizi-Talks
 
-## Summary
+**Somaiya College, Vidyavihar, Mumbai**
 
-I am an enthusiastic AI professional with a robust background in machine learning, deep learning, and data analysis. My academic and professional experiences have equipped me with the skills necessary to tackle complex data-driven challenges and contribute to innovative projects. I am always eager to learn and share knowledge, which has led me to write articles and create educational content on platforms like YouTube in past.
+Awarded second prize for a presentation on the life and scientific contributions of Dr. Vikram Sarabhai, highlighting his pioneering role in the development of India's space programme.
 
----
+## Let's Connect
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/aabid-abdal-khan/).
+I'm interested in software engineering, AI-powered applications, computer vision research, open-source collaboration, and continuous technical learning.
 
+I'm open to connecting with developers, researchers, and technology professionals to exchange ideas and explore meaningful opportunities.
 
-
-
+[Connect on LinkedIn](https://www.linkedin.com/in/aabid-abdal-khan/) | [Read My Articles](https://medium.com/@khanaabidabdal) | [Explore My Research](https://scholar.google.com/citations?user=T5mH21oAAAAJ&hl=en)
